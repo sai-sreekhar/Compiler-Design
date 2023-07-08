@@ -1,0 +1,7 @@
+= 3 NULL a
++ a 5 b
++ a b c
+* c e d
+= 8 NULL a
+* a 2 f
++ a e a
