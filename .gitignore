@@ -5,3 +5,4 @@ lexcode
 *.tab.h
 *.yy.c
 t.c
+*.txt
