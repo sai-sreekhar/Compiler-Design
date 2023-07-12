@@ -119,8 +119,6 @@ void quadraple()
     printf(" %c\t",code[cnt].opd2);
   else if(code[cnt].opd2 >='1' && code[cnt].opd2 <='9')
     printf("t%c\t",code[cnt].opd2);
-  else  printf("  %c",code[cnt].opd2);
-
   printf("t%c\n",currTemp++);
   cnt++;
  }
