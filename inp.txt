@@ -4,4 +4,5 @@
 * c e d
 = 8 NULL a
 * a 2 f
+if x NULL L0 
 + a e a

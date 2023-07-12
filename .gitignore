@@ -4,4 +4,4 @@ lexcode
 *.tab.c
 *.tab.h
 *.yy.c
-
+t.c
